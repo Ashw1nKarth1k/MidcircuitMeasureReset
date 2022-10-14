@@ -1,1 +1,2 @@
 # MidcircuitMeasureReset
+theme: architect
